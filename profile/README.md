@@ -1,19 +1,22 @@
 # Morze.ai project
 
-# Repositories
-[todo]
+## Repositories
+
+[Backend](https://github.com/Morze-ai/backend)
+[Frontend](https://github.com/Morze-ai/frontend)
 
 ## Members
+
 | Name | Github | Linkedin |
-|-------------|----------------------------------------|-----------------------------------------------------|
-|Oliver Gruba | [Github](https://github.com/Revilllo7) | [Linkedin](https://www.linkedin.com/in/oliver-gruba/)|
-|Jagoda Kuczkowska | [Github](https://github.com/kuczkoowska) | [Linkedin](https://www.linkedin.com/in/jagoda-kuczkowska-117151354/)|
-|Szymon Lato | [Github](https://github.com/LatoSzymon) | [Linkedin](https://www.linkedin.com/in/szymon-lato-1b2118324/)|
-|Szymon Ligenza | [Github](https://github.com/Logenz0202) | [Linkedin](https://www.linkedin.com/in/szymon-ligenza/)|
-|Aleksandra Stadnicka | [Github](https://github.com/astadnicka) | [Linkedin](www.linkedin.com/in/aleksandra-stadnicka-b68aaa30a/)|
+| ------------- | ---------------------------------------- | ----------------------------------------------------- |
+| Oliver Gruba | [Github](https://github.com/Revilllo7) | [Linkedin](https://www.linkedin.com/in/oliver-gruba/) |
+| Jagoda Kuczkowska | [Github](https://github.com/kuczkoowska) | [Linkedin](https://www.linkedin.com/in/jagoda-kuczkowska-117151354/) |
+| Szymon Lato | [Github](https://github.com/LatoSzymon) | [Linkedin](https://www.linkedin.com/in/szymon-lato-1b2118324/) |
+| Szymon Ligenza | [Github](https://github.com/Logenz0202) | [Linkedin](https://www.linkedin.com/in/szymon-ligenza/) |
+| Aleksandra Stadnicka | [Github](https://github.com/astadnicka) | [Linkedin](https://www.linkedin.com/in/aleksandra-stadnicka-b68aaa30a/) |
 
+## Opis
 
-## Opis:
 Mimo tego, że Morze Bałtyckie jest morzem bezpływowym, obserwowane są przypadki drastycznej
 zmiany poziomów morza. Zmiany te mogą być wynikiem działania jednego czynnika, na przykład wiatru,
 lub kumulatywnym efektem nakładania się szeregu czynników, których siła i intensywność jest zmienna
